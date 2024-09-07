@@ -1,0 +1,13 @@
+{"level":"info","message":"⌛ Building environment","timeElapsed":138,"timestamp":"2024-09-07T15:06:11.359Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///d%3A/HDD/UNAHUR/Objetos1/2024S2/Clase%20sabado%207-9/elLoboFeroz-hernanconiglio-solucion","timestamp":"2024-09-07T15:06:11.363Z"}
+{"level":"info","message":"⌛ Validating feroz.wlk","timeElapsed":126,"timestamp":"2024-09-07T15:06:11.785Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":121,"timestamp":"2024-09-07T15:06:11.908Z"}
+{"level":"info","message":"⌛ Validating testLoboFeroz.wtest","timeElapsed":112,"timestamp":"2024-09-07T15:06:12.026Z"}
+{"level":"info","message":"⌛ Validating feroz.wlk","timeElapsed":153,"timestamp":"2024-09-07T15:06:12.362Z"}
+{"level":"info","message":"⌛ Validating testLoboFeroz.wtest","timeElapsed":224,"timestamp":"2024-09-07T15:06:12.586Z"}
+{"level":"info","message":"⌛ Validating testExample.wtest","timeElapsed":131,"timestamp":"2024-09-07T15:06:12.718Z"}
+{"level":"info","message":"⌛ Validating caperucita.wlk","timeElapsed":104,"timestamp":"2024-09-07T15:06:12.822Z"}
+{"level":"info","message":"onRequest - STRONG_FILES_CHANGED:d:\\HDD\\UNAHUR\\Objetos1\\2024S2\\Clase sabado 7-9\\elLoboFeroz-hernanconiglio-solucion\\testExample.wtest","timestamp":"2024-09-07T15:06:21.826Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":127,"timestamp":"2024-09-07T15:06:21.954Z"}
+{"level":"info","message":"Removing diagnostics from \\HDD\\UNAHUR\\Objetos1\\2024S2\\Clase sabado 7-9\\elLoboFeroz-hernanconiglio-solucion\\testExample.wtest","timestamp":"2024-09-07T15:06:22.138Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///d%3A/HDD/UNAHUR/Objetos1/2024S2/Clase%20sabado%207-9/elLoboFeroz-hernanconiglio-solucion","timestamp":"2024-09-07T15:06:22.392Z"}

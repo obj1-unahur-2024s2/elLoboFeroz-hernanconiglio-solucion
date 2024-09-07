@@ -1,0 +1,32 @@
+import feroz.*
+import caperucita.*
+
+describe "Verificar la historia modelada para lobo feroz" {
+  test "feroz corre 1 vez entonces su peso queda en 9" {
+    feroz.corre()
+    assert.equals(10-1,feroz.peso())
+  }
+  test "feroz corre 2 veces y su peso queda en 8" {
+    feroz.corre()
+    feroz.corre()
+    assert.equals(10-1-1,feroz.peso())
+  }
+  test "feroz corre 12 veces y su peso queda en 0" {
+    feroz.corre()
+    feroz.corre()
+    feroz.corre()
+    feroz.corre()
+    feroz.corre()
+    feroz.corre()
+    feroz.corre()
+    feroz.corre()
+    feroz.corre()
+    feroz.corre()
+    feroz.corre()
+    feroz.corre()
+    assert.equals(0,feroz.peso())
+  }
+  test "feroz no está saludable al inicio porque su peso es menor a 20" {
+    assert.notThat(feroz.estaSaludable())
+  }
+}
